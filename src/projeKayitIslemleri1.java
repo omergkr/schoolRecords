@@ -806,6 +806,10 @@ public class projeKayitIslemleri1 {
             return ogrenciler;
         }
 
+        public static void deneme(){
+
+        }
+
         public static HashMap<Integer, HashMap<String, Integer>> fillDersNotlari(){
 
             HashMap<Integer, HashMap<String, Integer>> dersNotlari = new HashMap<>();
