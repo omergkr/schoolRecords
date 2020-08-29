@@ -767,22 +767,6 @@ public class projeKayitIslemleri1 {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     class fillData {
 
         public static TreeSet<String> fillDersler(){
@@ -806,9 +790,7 @@ public class projeKayitIslemleri1 {
             return ogrenciler;
         }
 
-        public static void deneme(){
 
-        }
 
         public static HashMap<Integer, HashMap<String, Integer>> fillDersNotlari(){
 
